@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: thistle;
+    height: 100vh;
+    width: 100%;
+    margin-top: 5px ;
+}
+.works{
+    text-align: center;
+    padding-top:70px ;
+}
+#frown{
+    font-size: 200px;
+    color: rgb(112, 87, 136);
+ 
+}
+h1{
+    font-family: cursive;
+}
+p{
+    padding-top:30px ;
+    color: rgb(17, 14, 20);
+    font-family: monospace;
+}
+#wink{
+    color: rgb(112, 87, 136);
+    padding-top: 5px;
+}
+#Bhome{
+    position: relative;
+    left: 45%;
+    margin-top: 60px;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: transparent;
+    border-radius: 15px;
+    border-top: thin;
+    border-right: thin;
+    color: rgb(88, 87, 155);
+   
+}
+#Bhome:hover{
+    box-shadow: 5px 5px 5px red;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
