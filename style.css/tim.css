@@ -214,6 +214,7 @@ pre, .whatsapp{
 @media screen and (max-width:800px){
     .main{
         flex-direction: column;
+        height:fit-content;
     }
     .welcome{
         width: 100%;
@@ -223,7 +224,7 @@ pre, .whatsapp{
     }
     .grid{
         margin-left: 10%;
-        margin-top: 10%;
+        margin-top: 5%;
      
         width: 80%;
     }
