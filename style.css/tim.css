@@ -101,13 +101,13 @@ span{
   
     border-radius: 6px;
     height: 300px;
-    background-image: url(/images/How-to-Create-A-Website-From-Scratch-The-Beginner’s-Guide.jpg);
+    background-image: url(../images/How-to-Create-A-Website-From-Scratch-The-Beginner’s-Guide.jpg);
     box-shadow: 2px 4px 5px;
     animation: 25s animate ease-in infinite;
     
 }
 .page2{
-    background-image: url(/images/313022.jpg);
+    background-image: url(../images/313022.jpg);
     width: 100%;
     background-size: cover;
     height: 100vh;
@@ -156,17 +156,17 @@ pre, .whatsapp{
   
 @keyframes animate{
     10%{
-        background-image: url(/images/contact-bg.jpg);
+        background-image: url(../images/contact-bg.jpg);
     }
     50%{
-        background-image: url(/images/website.jpg);
+        background-image: url(../images/website.jpg);
     }
     70%{
-        background-image: url(/images/313022.jpg);
+        background-image: url(../images/313022.jpg);
         background-size: contain;
     }
     90%{
-        background-image: url(/images/web.jpg);
+        background-image: url(../images/web.jpg);
         background-size: contain;
     }
 }
